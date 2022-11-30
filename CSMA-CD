@@ -58,7 +58,6 @@ return str;
 
 
 
-
 //CSMA/CD PROGRAM
 //SERVER:(Receiver Side)
 import java.io.*;
